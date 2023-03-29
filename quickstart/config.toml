@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://denseflux-automatic-acorn-54qgx5jxpqf4vpw-1313.preview.app.github.dev/'
+languageCode = 'en-gb'
+title = 'Steves New Hugo Site'
+theme = 'other'
