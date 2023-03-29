@@ -4,9 +4,9 @@ on: [push]
 
 jobs:
   build:
-  strategy:
-      matrix:
-        image: [ext-ubuntu, alpine]
+    strategy:
+        matrix:
+          image: [ext-ubuntu, alpine]
 
     runs-on: ubuntu-latest
 
